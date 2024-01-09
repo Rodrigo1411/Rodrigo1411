@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Rodrigo1411/Rodrigo1411/main/profile-summary-card-output/github/4-productive-time.svg)
+```
+
+    
